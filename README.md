@@ -7,7 +7,7 @@ H/t --> [awsm.fish](https://git.io/awsm.fish)
 * [jLESS](https://jless.io/) - a command-line JSON viewer (also supports YAML)
 
 ## Markdown
-* [Grip -- GitHub Readme Instant Preview](https://github.com/joeyespo/grip)
+* [Grip](https://github.com/joeyespo/grip) - GitHub Readme Instant Preview
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter
 * [Pine](https://lukakerr.github.io/Pine/)
 
