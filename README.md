@@ -9,7 +9,7 @@ H/t --> [awsm.fish](https://git.io/awsm.fish)
 ## Markdown
 * [Grip](https://github.com/joeyespo/grip) - GitHub Readme Instant Preview
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter
-* [Pine](https://lukakerr.github.io/Pine/)
+* [Pine](https://lukakerr.github.io/Pine/) - Editor for macOS
 
 ## Fish
 * [Tide](https://github.com/IlanCosman/tide) - a prompt
