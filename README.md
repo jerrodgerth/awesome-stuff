@@ -13,3 +13,7 @@ Collection of links to awesome tools.  H/t --> [awsm.fish](https://git.io/awsm.f
 * [Tide](https://github.com/IlanCosman/tide) - a prompt
 * [Hydro](https://github.com/jorgebucaran/hydro) - another prompt
 * [Fisher](https://github.com/jorgebucaran/fisher) - plugin manager
+
+## Presentation tools
+* [chalk.ist](https://chalk.ist/)
+* [asciinema](https://asciinema.org/) - record and share terminal sessions
