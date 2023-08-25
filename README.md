@@ -17,3 +17,11 @@ Collection of links to awesome tools.  H/t --> [awsm.fish](https://git.io/awsm.f
 ## Presentation tools
 * [chalk.ist](https://chalk.ist/)
 * [asciinema](https://asciinema.org/) - record and share terminal sessions
+
+## `brew` tools
+* dog
+* id3lib
+* ffmpeg
+* yt-dlp 
+* grip
+* qrencode
